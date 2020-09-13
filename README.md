@@ -11,7 +11,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | ES6 
-- 🌐 &nbsp; HTML | CSS | ReactJS | Node.js | Express.js
+- 🌐 &nbsp; HTML | CSS | ReactJS |Redux | Node.js | Express.js
 - 🛢 &nbsp; MongoDB |
 - 🔧 &nbsp; Git |
 
