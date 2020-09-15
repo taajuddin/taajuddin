@@ -22,3 +22,6 @@
 <a href="https://github.com/taajuddin"><img alt="Github" src="https://img.shields.io/badge/GitHub-taajuddin-blue?style=flat&logo=github"></a>
 <a href="mailto:taajraza12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-taajraza12%40gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
+
+###
+![Taaj's github stats](https://github-readme-stats.vercel.app/api?username=taajuddin&show_icons=true&theme=radical&bg_color=#ffffff)
