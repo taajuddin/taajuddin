@@ -16,7 +16,7 @@
 - 🔧 &nbsp; Git |
 
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/taaj.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/taajuddin/taajuddin/blob/master/taaj.gif?raw=true" width="500" height="320" />
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
