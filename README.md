@@ -1,5 +1,6 @@
 
 <h2> Hi there 👋, I’m Md Taaj Uddin!</h2>
+ <img align="right" alt="GIF" src="https://github.com/taajuddin/taajuddin/blob/master/taaj.gif?raw=true" width="500" height="320" />
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -8,6 +9,7 @@
 - 🌱 &nbsp; Learning more about technologies that go into building **Full Stack Applications**.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
+
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | ES6 
@@ -15,8 +17,6 @@
 - 🛢 &nbsp; MongoDB |
 - 🔧 &nbsp; Git |
 
-
- <img align="right" alt="GIF" src="https://github.com/taajuddin/taajuddin/blob/master/taaj.gif?raw=true" width="500" height="320" />
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
