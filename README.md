@@ -1,6 +1,6 @@
 
 <h2> Hi there 👋, I’m Md Taaj Uddin!</h2>
- <img align="right" alt="GIF" src="https://github.com/taajuddin/taajuddin/blob/master/taaj.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/taajuddin/taajuddin/blob/master/taaj1.gif?raw=true" width="500" height="320" />
 
 <h3> 👨🏻‍💻 About Me </h3>
 
