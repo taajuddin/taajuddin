@@ -13,9 +13,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | ES6 
-- 🌐 &nbsp; HTML | CSS | ReactJS |Redux | Node.js | Express.js
-- 🛢 &nbsp; MongoDB |
-- 🔧 &nbsp; Git |
+- 🌐 &nbsp; HTML | CSS | ReactJS |Redux | Node.js | Express.js | Nest.js | Typescript
+- 🛢 &nbsp; MongoDB | Redis
+- 🔧 &nbsp; Git | Kafka | docker | 
 
 <h3> 🤝🏻 Connect with Me </h3>
 
