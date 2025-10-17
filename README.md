@@ -23,6 +23,8 @@
 <a href="https://www.linkedin.com/in/md-taaj-uddin-80258617b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Md%20Taaj%20Uddin-blue?style=flat&logo=linkedin"></a>
 <a href="https://github.com/taajuddin"><img alt="Github" src="https://img.shields.io/badge/GitHub-taajuddin-blue?style=flat&logo=github"></a>
 <a href="mailto:taajraza12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-taajraza12%40gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://taajuddin.github.io/portfolio-taaj/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-taajuddin-blue?style=flat&logo=website"></a>
+ 
 </p>
 
 ### Languages and Tools:
